@@ -1,4 +1,4 @@
-# Employee-Database
+# Employee Database
 Add, delete, and save employee information.
 
 ## How to Download and Use
