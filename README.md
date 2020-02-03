@@ -1,5 +1,5 @@
 # Employee-Database
-Add, save, and load employee information.
+Add, delete, and save employee information.
 
 ## How to Download and Use
 1.) Click "Clone or download" then click "Download ZIP".
